@@ -29,7 +29,8 @@ The original dataset contained diagnosis records for multiple medical conditions
 - Diabetes Mellitus
 - Asthma
 - Influenza
-- Other clinical diagnoses
+- Hypertension &
+- Malaria
 
 The records were unstructured and required extensive manual processing.
 
@@ -78,18 +79,18 @@ The records were unstructured and required extensive manual processing.
 
 # Dashboard Preview
 
-## Overview Dashboard
-[general_overview.png]
+## Dashboard Overview
+![](general_overview.png)
 
 ---
 
 ## Gender-Based Analysis
-[gender_analysis.png]
+![](gender_analysis.png)
 
 ---
 
 ## Age Group Distribution
-[age_group_analysis.png]
+![](age_group_analysis.png)
 
 ---
 
