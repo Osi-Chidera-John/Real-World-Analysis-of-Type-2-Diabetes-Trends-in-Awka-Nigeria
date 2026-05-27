@@ -79,17 +79,17 @@ The records were unstructured and required extensive manual processing.
 # Dashboard Preview
 
 ## Overview Dashboard
-[Insert Screenshot Here]
+[general_overview.png]
 
 ---
 
 ## Gender-Based Analysis
-[Insert Screenshot Here]
+[gender_analysis.png]
 
 ---
 
 ## Age Group Distribution
-[Insert Screenshot Here]
+[age_group_analysis.png]
 
 ---
 
@@ -127,7 +127,7 @@ Nnamdi Azikiwe University, Awka, Nigeria
 ---
 
 ## View Project
-[View Here]()
+[View Here](https://github.com/Osi-Chidera-John/Real-World-Analysis-of-Type-2-Diabetes-Trends-in-Awka-Nigeria/blob/main/Diabetes_Dashboard.xlsx)
 
 ---
 
