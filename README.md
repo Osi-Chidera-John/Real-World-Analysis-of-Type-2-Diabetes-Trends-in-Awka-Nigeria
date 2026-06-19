@@ -1,5 +1,4 @@
-# Diabetes Mellitus Prevalence Analysis Using Real Hospital Data in Awka, Nigeria
-
+# Hospital-Based Analysis of Type 2 Diabetes Diagnosis Patterns in Awka, Nigeria
 ## Project Overview
 
 This healthcare analytics project investigates the prevalence and demographic distribution of Type 2 Diabetes Mellitus using real-world hospital diagnosis data collected from Amaku Teaching Hospital, Awka, Anambra State, Nigeria.
