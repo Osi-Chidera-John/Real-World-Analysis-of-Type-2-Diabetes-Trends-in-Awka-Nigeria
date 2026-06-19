@@ -1,78 +1,227 @@
-# Hospital-Based Analysis of Type 2 Diabetes Diagnosis Patterns in Awka, Nigeria
-## Project Overview
+# Demographic and Economic Patterns of Type 2 Diabetes Mellitus Among Patients Attending a Tertiary Hospital in Awka, Nigeria: A Retrospective Hospital-Based Analysis (2023–2024)
 
-This healthcare analytics project investigates the prevalence and demographic distribution of Type 2 Diabetes Mellitus using real-world hospital diagnosis data collected from Amaku Teaching Hospital, Awka, Anambra State, Nigeria.
+## Abstract
 
-The project was inspired by a lecture on Diabetes Mellitus delivered by Dr. Nosa Osakue during my studies in Medical Laboratory Science at Nnamdi Azikiwe University.
+Type 2 Diabetes Mellitus (T2DM) remains one of the leading non-communicable diseases contributing to morbidity, mortality, and healthcare expenditure worldwide. Understanding local demographic and economic patterns of diabetes is essential for evidence-based healthcare planning and preventive interventions.
 
-Motivated by global findings from the World Health Organization (WHO) regarding age and gender patterns in diabetes prevalence, I sought to examine whether similar trends existed within a local Nigerian hospital population using real clinical data rather than publicly available datasets.
+This retrospective hospital-based study analyzed diagnosis records obtained from Amaku Teaching Hospital, Awka, Anambra State, Nigeria, between 2023 and 2024. The study investigated demographic distribution, hospitalization patterns, and treatment-related costs associated with Type 2 Diabetes Mellitus using real-world clinical data.
+
+A total of 341 diabetes diagnosis records representing 256 distinct patients were identified and analyzed. Findings revealed that older adults accounted for the largest proportion of diabetes diagnoses, while notable gender differences were observed across age groups. The study also demonstrated a substantial economic burden associated with diabetes management, with an average treatment cost of approximately ₦50,655 and an average hospitalization duration of 14 days.
+
+The findings provide valuable insight into local diabetes patterns and highlight the importance of early detection, routine screening, and targeted public health interventions aimed at reducing the burden of Type 2 Diabetes Mellitus within the Nigerian healthcare system.
 
 ---
 
 ## Background
 
-According to WHO findings, Type 2 Diabetes tends to affect males more during younger and middle ages, while prevalence among females increases significantly at older ages, especially after menopause.
+Diabetes Mellitus is a chronic metabolic disorder characterized by elevated blood glucose levels resulting from impaired insulin secretion, insulin action, or both. Type 2 Diabetes Mellitus accounts for the majority of diabetes cases globally and continues to increase in prevalence due to population aging, urbanization, sedentary lifestyles, and dietary changes.
 
-This project aimed to investigate:
-- Whether local hospital data reflects similar demographic patterns
-- The distribution of diabetes across age groups and gender
-- Economic and hospitalization impacts associated with diabetes diagnosis
+According to reports from the World Health Organization (WHO) and the International Diabetes Federation (IDF), age and gender are important factors influencing diabetes occurrence and disease progression. Several studies have reported increased diabetes burden among older adults and variations in disease patterns between males and females.
+
+Despite increasing diabetes burden in Nigeria, localized hospital-based analyses remain limited. This study was conducted to examine whether demographic patterns observed globally are reflected within a tertiary healthcare setting in Awka, Anambra State.
 
 ---
 
-## Data Collection
+## Study Aim
 
-Data was obtained from diagnosis records at Amaku Teaching Hospital, Awka, covering 2023 and early 2024.
+To evaluate the demographic and economic patterns associated with Type 2 Diabetes Mellitus among patients attending Amaku Teaching Hospital, Awka, Nigeria.
 
-The original dataset contained diagnosis records for multiple medical conditions including:
-- Diabetes Mellitus
-- Asthma
-- Influenza
-- Hypertension &
-- Malaria
+---
 
-The records were unstructured and required extensive manual processing.
+## Specific Objectives
 
-### Data Processing Steps
+1. To determine the age-group distribution of patients diagnosed with Type 2 Diabetes Mellitus.
+2. To assess gender-based patterns among diabetic patients.
+3. To evaluate treatment costs associated with diabetes management.
+4. To assess hospitalization duration among diabetic patients.
+5. To generate evidence that may support preventive healthcare planning and diabetes awareness initiatives.
 
-- Manually entered and organized over 1,500 hospital records into Excel
-- Extracted 341 Type 2 Diabetes diagnosis cases
-- Identified 256 distinct patients
-- Cleaned and standardized records
-- Removed incomplete or unclear entries to minimize bias
-- Categorized patients into age groups:
-  - Young (≤30)
-  - Middle Age (30–55)
-  - Old Age (>55)
+---
+
+## Research Questions
+
+1. Which age group accounted for the highest proportion of Type 2 Diabetes diagnoses?
+2. What gender-related patterns were observed among diabetic patients?
+3. What economic burden was associated with diabetes treatment?
+4. What hospitalization trends were observed among diabetic patients?
+
+---
+
+## Study Design
+
+### Design
+
+Retrospective hospital-based observational study.
+
+### Study Location
+
+Amaku Teaching Hospital, Awka, Anambra State, Nigeria.
+
+### Study Period
+
+January 2023 – December 2024.
+
+### Data Source
+
+Hospital diagnosis records containing multiple disease categories including:
+
+* Type 2 Diabetes Mellitus
+* Hypertension
+* Malaria
+* Influenza
+* Asthma
+
+### Inclusion Criteria
+
+* Patients with clearly documented Type 2 Diabetes Mellitus diagnoses.
+* Records containing sufficient demographic and treatment information.
+
+### Exclusion Criteria
+
+* Incomplete records.
+* Duplicate or unclear entries.
+* Records with missing critical variables required for analysis.
+
+---
+
+## Data Processing and Analysis
+
+The original dataset consisted of over 1,500 hospital diagnosis records.
+
+The following preprocessing steps were performed:
+
+* Manual organization and digitization of hospital records.
+* Data cleaning and standardization.
+* Removal of incomplete entries.
+* Identification of unique patients.
+* Categorization of patients into age groups.
+* Development of interactive analytical dashboards using Microsoft Excel Pivot Tables and visualization tools.
+
+### Age Classification
+
+| Age Group    | Range       |
+| ------------ | ----------- |
+| Young        | ≤ 30 years  |
+| Middle Age   | 31–55 years |
+| Older Adults | > 55 years  |
+
+---
+
+## Results
+
+### Study Population
+
+* Total diabetes diagnosis records analyzed: 341
+* Total distinct patients identified: 256
+
+### Age Distribution
+
+Analysis revealed that diabetes diagnoses were concentrated among older adults.
+
+| Age Group    | Percentage |
+| ------------ | ---------- |
+| Older Adults | 49%        |
+| Young        | 29%        |
+| Middle Age   | 22%        |
+
+### Gender Distribution
+
+Male patients demonstrated higher diagnosis frequencies during younger and middle-age categories, while female diagnoses increased among older adults.
+
+### Treatment Cost
+
+The average treatment cost associated with diabetes management was approximately:
+
+**₦50,655**
+
+### Hospitalization Duration
+
+The average hospitalization duration among diabetic patients was:
+
+**14 days**
+
+### Economic Impact
+
+Estimated hospital revenue generated from diabetes-related treatment exceeded:
+
+**₦17.2 Million**
+
+within the analyzed records.
+
+---
+
+## Discussion
+
+The findings indicate that Type 2 Diabetes Mellitus disproportionately affected older adults within the study population. This observation is consistent with established evidence linking increasing age with insulin resistance, metabolic dysfunction, and higher diabetes risk.
+
+The observed increase in female diagnoses among older adults may reflect hormonal and metabolic changes associated with aging. Similar patterns have been reported in international diabetes literature.
+
+The economic findings further emphasize the financial burden of diabetes management on both healthcare institutions and affected individuals, reinforcing the importance of preventive healthcare strategies and early diagnosis.
+
+---
+
+## Public Health Implications
+
+The study highlights the need for:
+
+* Routine diabetes screening programs.
+* Increased public awareness regarding diabetes risk factors.
+* Promotion of healthy lifestyle practices.
+* Early intervention strategies targeting high-risk populations.
+* Strengthened diabetes management programs within healthcare facilities.
+
+---
+
+## Limitations
+
+* Findings are based on records from a single healthcare institution.
+* Community-wide prevalence could not be determined from hospital data alone.
+* Some records were excluded due to incomplete documentation.
+* Results may not fully represent the broader population of Awka or Anambra State.
+
+---
+
+## Future Directions
+
+Future studies should:
+
+* Incorporate multiple healthcare institutions.
+* Include larger sample sizes.
+* Conduct inferential statistical analyses to assess significance of observed demographic patterns.
+* Investigate risk factors associated with diabetes occurrence within local populations.
 
 ---
 
 ## Tools Used
 
-- Microsoft Excel
-- Pivot Tables
-- Data Cleaning & Standardization
-- Data Visualization
-- Healthcare Data Analysis
+* Microsoft Excel
+* Pivot Tables
+* Data Cleaning and Standardization Techniques
+* Healthcare Data Analytics
+* Interactive Dashboard Development
 
 ---
 
-## Key Findings
+## Author
 
-### Gender Distribution
-- Males showed higher prevalence overall during younger and middle ages
-- Female prevalence increased after middle age and exceeded male prevalence during older age groups
-- Findings aligned closely with WHO observations regarding post-menopausal diabetes trends
+**Osi Chidera John**
 
-### Age Distribution
-- 49% of diagnoses occurred in older adults
-- 29% occurred in younger individuals
-- 22% occurred in middle-aged individuals
+Medical Laboratory Science Student
 
-### Hospitalization & Economic Impact
-- Average treatment cost: ₦50,655
-- Average hospitalization duration: 14 days
-- Estimated hospital revenue from diabetes-related treatment exceeded ₦17.2 million within extracted records
+Nnamdi Azikiwe University, Awka, Nigeria
+
+---
+
+## Acknowledgements
+
+Special appreciation to:
+
+* Dr. Nosa Osakue
+* Amaku Teaching Hospital, Awka
+* World Health Organization (WHO)
+* International Diabetes Federation (IDF)
+
+for providing inspiration and scientific resources relevant to diabetes research.
 
 ---
 
@@ -80,11 +229,6 @@ The records were unstructured and required extensive manual processing.
 
 ## Dashboard Overview
 ![](general_overview.png)
-
----
-
-## Gender-Based Analysis
-![](gender_analysis.png)
 
 ---
 
@@ -129,14 +273,6 @@ Nnamdi Azikiwe University, Awka, Nigeria
 ## View Project
 [View Here](https://github.com/Osi-Chidera-John/Real-World-Analysis-of-Type-2-Diabetes-Trends-in-Awka-Nigeria/blob/main/Diabetes_Dashboard.xlsx)
 
----
-
-## Acknowledgements
-
-Special appreciation to:
-- Dr. Nosa Osakue for inspiring the research direction
-- Amaku Teaching Hospital, Awka
-- World Health Organization (WHO) publications on Diabetes Mellitus
 
 ---
 
