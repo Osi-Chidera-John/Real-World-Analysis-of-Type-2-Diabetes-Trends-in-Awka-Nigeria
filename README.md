@@ -134,6 +134,8 @@ The average treatment cost associated with diabetes management was approximately
 
 **₦50,655**
 
+--- 
+
 ### Hospitalization Duration
 
 The average hospitalization duration among diabetic patients was:
@@ -148,6 +150,17 @@ Estimated hospital revenue generated from diabetes-related treatment exceeded:
 
 within the analyzed records.
 
+---
+
+# Dashboard Preview
+
+## Dashboard Overview
+![](general_overview.png)
+
+---
+
+## Age Group Distribution
+![](age_group_analysis.png)
 ---
 
 ## Discussion
@@ -222,18 +235,6 @@ Special appreciation to:
 * International Diabetes Federation (IDF)
 
 for providing inspiration and scientific resources relevant to diabetes research.
-
----
-
-# Dashboard Preview
-
-## Dashboard Overview
-![](general_overview.png)
-
----
-
-## Age Group Distribution
-![](age_group_analysis.png)
 
 ---
 
