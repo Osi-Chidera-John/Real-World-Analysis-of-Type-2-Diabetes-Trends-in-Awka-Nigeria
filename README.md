@@ -16,25 +16,13 @@ The findings align with global evidence reported by the World Health Organizatio
 
 ### Overall Dashboard
 
-![Overall Dashboard](general_overview.png)
-
----
-
-### Young Adults Dashboard (≤30 Years)
-
-![Young Adults Dashboard](Young_Overview.png)
-
----
-
-### Middle-Aged Adults Dashboard (31–55 Years)
-
-![Middle Age Dashboard](Middle_Age_Overview.png)
+![Overall Dashboard](Project_files/general_overview.png)
 
 ---
 
 ### Older Adults Dashboard (>55 Years)
 
-![Older Adults Dashboard](Old_Overview.png)
+![Older Adults Dashboard](Project_files/Old_Overview.png)
 
 ---
 
@@ -115,7 +103,7 @@ Hospital diagnosis records containing:
 
 # Data Preparation & Analysis
 
-The original hospital dataset contained over 1,500 diagnosis records.
+The original hospital dataset contained over 1,400 diagnosis records.
 
 ### Data Processing Steps
 
@@ -331,15 +319,10 @@ for their contributions, guidance, and scientific resources that inspired this w
 
 This project is intended strictly for educational, research, and portfolio purposes.
 
-## View Project
-[View Here](https://github.com/Osi-Chidera-John/Real-World-Analysis-of-Type-2-Diabetes-Trends-in-Awka-Nigeria/blob/main/Diabetes_Dashboard.xlsx)
-
-
 ---
 
-## License
-
-This project is intended strictly for educational, research, and portfolio purposes.
+## View Project
+[View Here](https://github.com/Osi-Chidera-John/Real-World-Analysis-of-Type-2-Diabetes-Trends-in-Awka-Nigeria/blob/main/Project_files/Project_Dashboard.pbix)
 
 ---
 ## Linkedln Profile
