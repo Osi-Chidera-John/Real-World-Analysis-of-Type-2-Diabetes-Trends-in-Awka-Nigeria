@@ -315,12 +315,6 @@ for their contributions, guidance, and scientific resources that inspired this w
 
 ---
 
-# License
-
-This project is intended strictly for educational, research, and portfolio purposes.
-
----
-
 ## View Project
 [View Here](https://github.com/Osi-Chidera-John/Real-World-Analysis-of-Type-2-Diabetes-Trends-in-Awka-Nigeria/blob/main/Project_files/Project_Dashboard.pbix)
 
