@@ -291,8 +291,8 @@ This study demonstrates that Type 2 Diabetes Mellitus remains a significant publ
 
 # Author
 
-**Osi Chidera John**
-Medical Laboratory Science Student
+**Osi Chidera John**,
+Medical Laboratory Science Student,
 Nnamdi Azikiwe University, Awka, Nigeria
 
 ---
