@@ -301,8 +301,8 @@ Nnamdi Azikiwe University, Awka, Nigeria
 
 Special appreciation to:
 
-**Dr. Nosakhare Osakwe**
-Department of Medical Laboratory Science
+**Dr. Nosakhare Osakwe**,
+Department of Medical Laboratory Science,
 Nnamdi Azikiwe University, Awka
 
 **Amaku Teaching Hospital, Awka**
